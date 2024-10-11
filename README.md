@@ -6,6 +6,7 @@ Because why not, besides having a repository of surf images for server owners to
 
 # How to use
 If you want to download every map and host it yourself, just clone the repository and use it for your needs. Otherwise you can use a direct link to get map images individually:
+
 `https://raw.githubusercontent.com/Niflheimrx/surf-map-images/main/pictures/[surf_map].jpg`
 
 Change the URL to the name of the map obviously
